@@ -1,5 +1,7 @@
 # 2018 Street Glide — decisions and assembly checks
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 Updated October 23, 2026 · Companion to the [build plan](BUILD_PLAN.md).
 
 This register separates settled owner instructions from checks the mechanic must resolve with the actual parts. A catalog match can identify a likely part number without proving the exact hardware in a delivered box. Closing an assembly check should record the result, the applicable instruction revision and any part or setup change.

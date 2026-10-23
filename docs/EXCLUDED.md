@@ -1,5 +1,7 @@
 # Canceled, returned, and refunded items
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 [Build home](../README.md)
 
 Do not use these records as evidence of parts available for installation.

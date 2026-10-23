@@ -1,6 +1,6 @@
 # HD-03X TFT gauges
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![HD-03X TFT gauges ](../assets/koso-gauges.jpg)
 

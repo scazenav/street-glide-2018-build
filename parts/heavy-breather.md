@@ -1,6 +1,6 @@
 # Harley Screamin’ Eagle Heavy Breather intake with oiled cotton filter
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Harley Screamin’ Eagle Heavy Breather intake with oiled cotton filter ](../assets/heavy-breather.jpg)
 

@@ -1,6 +1,6 @@
 # V2 8" Audio Speaker Lids 2024+ Model
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 ![V2 8" Audio Speaker Lids 2024+ Model ](../assets/dbc-lids.png)
 

@@ -1,6 +1,6 @@
 # Open Road Kit (Pre-24 Street Glide, Ultra, Electra)
 
-[All parts](../README.md) · [System](../systems/controls.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/controls.md)
 
 ![Open Road Kit (Pre-24 Street Glide, Ultra, Electra) ](../assets/kraus-open.jpg)
 

@@ -1,6 +1,6 @@
 # CG Quick-Release Module for AIO-6 Series
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![CG Quick-Release Module for AIO-6 Series ](../assets/chigee-quick-release.jpg)
 

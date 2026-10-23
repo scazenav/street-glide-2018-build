@@ -1,6 +1,6 @@
 # KR8 Inverted Front End Kit
 
-[All parts](../README.md) · [System](../systems/front-end.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/front-end.md)
 
 ![KR8 Inverted Front End Kit ](../assets/kraus-kr8.jpg)
 

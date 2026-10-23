@@ -1,6 +1,6 @@
 # Hertz amplifier, reported 900W (model unconfirmed)
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 *Photo: Cannot identify an exact amp from the 900W description; no misleading model photograph assigned.*
 

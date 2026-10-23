@@ -1,6 +1,6 @@
 # Low-Profile Bar Clamps
 
-[All parts](../README.md) · [System](../systems/accessories.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/accessories.md)
 
 ![Low-Profile Bar Clamps ](../assets/bar-clamps.jpg)
 

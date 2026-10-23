@@ -1,6 +1,6 @@
 # Oil Filter (required for all M8 touring bikes)
 
-[All parts](../README.md) · [System](../systems/cooling.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/cooling.md)
 
 ![Oil Filter (required for all M8 touring bikes) ](../assets/kp-filter.webp)
 

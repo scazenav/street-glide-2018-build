@@ -1,6 +1,6 @@
 # Gift: Fast Charging Cable For TR100/CG2 - Type-C — Type-C
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![Gift: Fast Charging Cable For TR100/CG2 - Type-C — Type-C ](../assets/chigee-cable-usbc.png)
 

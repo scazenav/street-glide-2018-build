@@ -1,6 +1,6 @@
 # Touring Bagger Milwaukee 8 Oil-Cooled 2017-Present
 
-[All parts](../README.md) · [System](../systems/cooling.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/cooling.md)
 
 ![Touring Bagger Milwaukee 8 Oil-Cooled 2017-Present ](../assets/oilbud.webp)
 

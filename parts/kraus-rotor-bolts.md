@@ -1,6 +1,6 @@
 # Titanium Brake Rotor Hardware Kit
 
-[All parts](../README.md) · [System](../systems/brakes.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/brakes.md)
 
 ![Titanium Brake Rotor Hardware Kit ](../assets/kraus-rotor-bolts.jpg)
 

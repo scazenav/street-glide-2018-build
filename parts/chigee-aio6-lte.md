@@ -1,6 +1,6 @@
 # CHIGEE AIO-6 LTE 4G Smart Riding Display
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![CHIGEE AIO-6 LTE 4G Smart Riding Display ](../assets/chigee-aio6-lte.jpg)
 

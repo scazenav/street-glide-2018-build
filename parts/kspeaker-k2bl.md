@@ -1,6 +1,6 @@
 # KSPEAKER Motorcycle Speakers Bluetooth Waterproof Radio Audio System Built-in Amplifier, 3 Inch Metal Mp3 Player, Great for ATV, Scooter Bike,12 Volt Vehicle, K2BL
 
-[All parts](../README.md) · [System](../systems/historical-candidates.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/historical-candidates.md)
 
 ![KSPEAKER Motorcycle Speakers Bluetooth Waterproof Radio Audio System Built-in Amplifier, 3 Inch Metal Mp3 Player, Great for ATV, Scooter Bike,12 Volt Vehicle, K2BL ](../assets/kspeaker-k2bl.jpg)
 

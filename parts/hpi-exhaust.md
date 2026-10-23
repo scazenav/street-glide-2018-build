@@ -1,6 +1,6 @@
 # Bagger Full Length Exhaust - Harley Bagger M8 17-23
 
-[All parts](../README.md) · [System](../systems/exhaust.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/exhaust.md)
 
 ![Bagger Full Length Exhaust - Harley Bagger M8 17-23 ](../assets/hpi-exhaust.jpg)
 

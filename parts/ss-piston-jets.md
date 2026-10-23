@@ -1,6 +1,6 @@
 # Piston Cooling Jet Kit
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Piston Cooling Jet Kit ](../assets/ss-piston-jets.jpg)
 

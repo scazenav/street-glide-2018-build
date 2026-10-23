@@ -1,6 +1,6 @@
 # Fairing Mount For Harley Touring 2014-2018
 
-[All parts](../README.md) · [System](../systems/accessories.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/accessories.md)
 
 ![Fairing Mount For Harley Touring 2014-2018 ](../assets/ciro-mount.jpg)
 

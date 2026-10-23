@@ -1,6 +1,6 @@
 # Rear suspension
 
-[Build home](../README.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md) · [Build plan](../docs/BUILD_PLAN.md)
 
 | Part | Status | Qty | SKU |
 | --- | --- | --- | --- |

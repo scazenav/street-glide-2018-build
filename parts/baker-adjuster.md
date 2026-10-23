@@ -1,6 +1,6 @@
 # Armored Attitude Chain Adjuster Assembly
 
-[All parts](../README.md) · [System](../systems/primary.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/primary.md)
 
 ![Armored Attitude Chain Adjuster Assembly ](../assets/baker-adjuster.png)
 

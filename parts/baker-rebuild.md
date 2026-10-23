@@ -1,6 +1,6 @@
 # Primary Rebuild Kit, M8 Touring
 
-[All parts](../README.md) · [System](../systems/primary.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/primary.md)
 
 ![Primary Rebuild Kit, M8 Touring ](../assets/baker-rebuild.png)
 

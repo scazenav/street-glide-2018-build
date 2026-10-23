@@ -1,6 +1,6 @@
 # Radial Caliper Titanium Hardware Kit - Universal
 
-[All parts](../README.md) · [System](../systems/brakes.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/brakes.md)
 
 ![Radial Caliper Titanium Hardware Kit - Universal ](../assets/kraus-caliper-bolts.jpg)
 

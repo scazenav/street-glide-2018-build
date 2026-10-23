@@ -1,5 +1,7 @@
 # Previous project inventory reconciliation
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 [Build home](../README.md)
 
 Every row of **Street_Glide_Master_Parts.xlsx**, October 20, 2026, is accounted for below. The later corrected orders, shipping updates and cancellation take precedence where specified. The October 15 controls shop note additionally confirms that both screens, Maestro and the Hertz system stay.

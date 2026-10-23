@@ -1,6 +1,6 @@
 # Dunlop AE2 front tire
 
-[All parts](../README.md) · [System](../systems/wheels-tires.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/wheels-tires.md)
 
 ![Dunlop AE2 front tire ](../assets/dunlop-ae2-front.png)
 

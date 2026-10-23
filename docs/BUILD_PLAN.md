@@ -1,5 +1,7 @@
 # 2018 Street Glide — mechanic build plan
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 Updated October 23, 2026 · Harley-Davidson FLHX · Read with the [decision register](DECISIONS.md) and [parts catalog](../README.md).
 
 The job is to assemble the purchased 129-inch engine, induction, cooling, exhaust and primary-drive parts; fit the corrected Touring brake package; and integrate them with the equipment the owner is keeping. The Kraus front-end and control package is selected and quoted, with payment and order conversion still unverified. Purchased or delivered does not mean installed: confirm the physical inventory at intake and record what is already on the motorcycle.

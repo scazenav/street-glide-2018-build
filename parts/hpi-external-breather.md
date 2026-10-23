@@ -1,6 +1,6 @@
 # HPi External Breather System — M8 0.940, 2017–2023
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![HPi External Breather System — M8 0.940, 2017–2023 ](../assets/hpi-external-breather.png)
 

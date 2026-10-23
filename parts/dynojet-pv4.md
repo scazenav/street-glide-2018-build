@@ -1,6 +1,6 @@
 # Dynojet Power Vision 4
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Dynojet Power Vision 4 ](../assets/dynojet-pv4.png)
 

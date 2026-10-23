@@ -1,6 +1,6 @@
 # Cylinder Stud Set 6.25"L Black 8-Pack
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Cylinder Stud Set 6.25"L Black 8-Pack ](../assets/ss-studs.jpg)
 

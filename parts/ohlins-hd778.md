@@ -1,6 +1,6 @@
 # Öhlins STX 36 Blackline HD 778 rear shocks
 
-[All parts](../README.md) · [System](../systems/rear-suspension.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/rear-suspension.md)
 
 ![Öhlins STX 36 Blackline HD 778 rear shocks ](../assets/ohlins-hd778.jpg)
 

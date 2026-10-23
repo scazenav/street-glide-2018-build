@@ -1,5 +1,7 @@
 # Documentation gaps
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 [Build home](../README.md)
 
 A missing reference is not a claim that the manufacturer has no manual. These are the remaining gaps after the documented search.

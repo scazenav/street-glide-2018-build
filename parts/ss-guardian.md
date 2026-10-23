@@ -1,6 +1,6 @@
 # Top End Guardian Kit
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Top End Guardian Kit ](../assets/ss-guardian.jpg)
 

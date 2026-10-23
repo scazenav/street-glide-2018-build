@@ -1,6 +1,6 @@
 # Cicada Audio CHD8HD 8" Plastic Bag Divider (PAIR)
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 ![Cicada Audio CHD8HD 8" Plastic Bag Divider (PAIR) ](../assets/cicada-divider.jpg)
 

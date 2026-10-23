@@ -1,6 +1,6 @@
 # TR100 Two-way Charging Hub - 100W — 100W
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![TR100 Two-way Charging Hub - 100W — 100W ](../assets/chigee-tr100.png)
 

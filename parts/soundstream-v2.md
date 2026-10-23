@@ -1,6 +1,6 @@
 # Soundstream Reserve V2 head unit
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 ![Soundstream Reserve V2 head unit ](../assets/soundstream-v2.jpg)
 

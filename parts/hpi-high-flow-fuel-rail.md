@@ -1,6 +1,6 @@
 # HPi M8 Bagger High Flow Fuel Rail Kit
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![HPi M8 Bagger High Flow Fuel Rail Kit ](../assets/hpi-high-flow-fuel-rail.png)
 

@@ -1,6 +1,6 @@
 # Juiced Squeeze - Wireless Charge Mount - None — None
 
-[All parts](../README.md) · [System](../systems/accessories.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/accessories.md)
 
 | Field | Record |
 | --- | --- |

@@ -1,5 +1,7 @@
 # Sources and scope
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 [Build home](../README.md)
 
 Prepared October 23, 2026 for the 2018 Harley-Davidson Street Glide build. This is a working handoff, not a certification that every historical purchase is physically present or installed.

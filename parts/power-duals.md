@@ -1,6 +1,6 @@
 # Vance & Hines Power Duals head pipes
 
-[All parts](../README.md) · [System](../systems/exhaust.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/exhaust.md)
 
 ![Vance & Hines Power Duals head pipes ](../assets/power-duals.jpg)
 

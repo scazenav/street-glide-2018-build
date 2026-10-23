@@ -1,6 +1,6 @@
 # Rekluse spare blue clutch springs
 
-[All parts](../README.md) · [System](../systems/primary.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/primary.md)
 
 | Field | Record |
 | --- | --- |

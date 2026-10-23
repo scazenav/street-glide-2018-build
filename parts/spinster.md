@@ -1,6 +1,6 @@
 # The Spinster
 
-[All parts](../README.md) · [System](../systems/accessories.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/accessories.md)
 
 ![The Spinster ](../assets/spinster.gif)
 

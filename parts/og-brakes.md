@@ -1,6 +1,6 @@
 # 13" Complete Radial Big Brake Kit - Touring Dual Disc
 
-[All parts](../README.md) · [System](../systems/brakes.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/brakes.md)
 
 ![13" Complete Radial Big Brake Kit - Touring Dual Disc ](../assets/og-brakes.jpg)
 

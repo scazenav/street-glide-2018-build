@@ -6,6 +6,21 @@ This is the build inventory assembled from order emails, Shop order history, own
 
 **Confirmed corrections:** BAKER compensator **730-M8**, corrected and shipped. OG **Touring hub mount** dual-disc brake kit, corrected per owner. The old Softail order descriptions are superseded.
 
+## Start here
+
+| I need to… | Open this |
+| --- | --- |
+| Understand the job and installation order | [Builder work plan](docs/BUILD_PLAN.md) |
+| Find a part by name or part number | [All parts A–Z](PARTS_INDEX.md) |
+| Browse by area of the motorcycle | [Systems below](#inventory-by-system) |
+| Find an installation PDF | [Manuals index](manuals/README.md) |
+| Check unresolved selections or missing information | [Decisions](docs/DECISIONS.md) · [Documentation gaps](docs/DOCUMENTATION_GAPS.md) |
+| Check canceled or returned purchases | [Excluded items](docs/EXCLUDED.md) |
+
+**Quick route:** choose a system → open a part → use its product, installation, and kit-component links. Each part page has links back to its system and the full parts index.
+
+**Searchable photo catalog:** click the green **Code** button → **Download ZIP** → unzip → open `index.html`. Use the search box for a name, SKU, order, or note, and filter by system or status. On GitHub, use **All parts A–Z** and your browser’s Find command (`Ctrl+F` / `⌘F`).
+
 ## Inventory by system
 
 | System | Records | Browse |

@@ -1,6 +1,6 @@
 # XR-1 Discreet Motorcycle Dash Cam
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![XR-1 Discreet Motorcycle Dash Cam ](../assets/chigee-xr1.jpg)
 

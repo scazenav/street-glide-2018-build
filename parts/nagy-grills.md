@@ -1,6 +1,6 @@
 # Nagy's Customs 8" Speaker Grills (Pair) - Gloss Black — Gloss Black
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 ![Nagy's Customs 8" Speaker Grills (Pair) - Gloss Black — Gloss Black ](../assets/nagy-grills.jpg)
 

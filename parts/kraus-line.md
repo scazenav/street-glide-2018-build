@@ -1,6 +1,6 @@
 # Dual Front Caliper Brake Line (Bagger)
 
-[All parts](../README.md) · [System](../systems/brakes.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/brakes.md)
 
 ![Dual Front Caliper Brake Line (Bagger) ](../assets/kraus-line.jpg)
 

@@ -1,6 +1,6 @@
 # CG Radar Rearview Mirror - Round Shape — Round Shape
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![CG Radar Rearview Mirror - Round Shape — Round Shape ](../assets/chigee-mirrors.jpg)
 

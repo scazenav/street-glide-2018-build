@@ -1,6 +1,6 @@
 # Harley Neutral Gear Assist Kit Shifting Easier, Gear Shift Assist Fit for 2018+ Harley Touring, 2018+ Softail, Makes Shifting 20% Easier, Black
 
-[All parts](../README.md) · [System](../systems/controls.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/controls.md)
 
 ![Harley Neutral Gear Assist Kit Shifting Easier, Gear Shift Assist Fit for 2018+ Harley Touring, 2018+ Softail, Makes Shifting 20% Easier, Black ](../assets/amazon-b0dj29kwg8.jpg)
 

@@ -1,6 +1,6 @@
 # Pro-4 Docking Hardware
 
-[All parts](../README.md) · [System](../systems/front-end.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/front-end.md)
 
 ![Pro-4 Docking Hardware ](../assets/kraus-pro4.jpg)
 

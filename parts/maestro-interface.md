@@ -1,6 +1,6 @@
 # iDatalink Maestro interface (exact module unconfirmed)
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 *Photo: Exact installed Maestro module is unidentified; no product photo substituted.*
 

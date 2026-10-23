@@ -1,6 +1,6 @@
 # Gen1 M8 Screamin Eagle Stage IV Oil-Cooled CNC Ported Cylinder Heads
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![Gen1 M8 Screamin Eagle Stage IV Oil-Cooled CNC Ported Cylinder Heads ](../assets/se-heads.png)
 

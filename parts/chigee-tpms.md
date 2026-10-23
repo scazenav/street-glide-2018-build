@@ -1,6 +1,6 @@
 # External Tire Pressure Sensors - Pair (a set) — Pair (a set)
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![External Tire Pressure Sensors - Pair (a set) — Pair (a set) ](../assets/chigee-tpms.png)
 

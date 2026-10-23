@@ -1,6 +1,6 @@
 # Hertz SPL Show NEO 8-inch speakers (exact model unconfirmed)
 
-[All parts](../README.md) · [System](../systems/audio.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/audio.md)
 
 ![Hertz SPL Show NEO 8-inch speakers (exact model unconfirmed) ](../assets/hertz-8-speakers.png)
 

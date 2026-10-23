@@ -1,6 +1,6 @@
 # SR-1 Millimeter-wave Radar System - 77GHz radar — 77GHz radar
 
-[All parts](../README.md) · [System](../systems/electronics.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/electronics.md)
 
 ![SR-1 Millimeter-wave Radar System - 77GHz radar — 77GHz radar ](../assets/chigee-sr1.jpg)
 

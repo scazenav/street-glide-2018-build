@@ -1,6 +1,6 @@
 # 34 Tooth Compensator Sprocket Kit, M8 Models
 
-[All parts](../README.md) · [System](../systems/primary.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/primary.md)
 
 ![34 Tooth Compensator Sprocket Kit, M8 Models ](../assets/baker-comp.png)
 

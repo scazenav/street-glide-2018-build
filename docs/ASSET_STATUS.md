@@ -1,5 +1,7 @@
 # Asset archive status
 
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [Manuals](../manuals/README.md)
+
 [Build home](../README.md)
 
 Checked: 2026-10-23T15:54:00+00:00

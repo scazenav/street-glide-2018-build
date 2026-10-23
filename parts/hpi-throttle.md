@@ -1,6 +1,6 @@
 # 62mm Throttle Body Milwaukee-8
 
-[All parts](../README.md) · [System](../systems/engine.md)
+[Home](../README.md) · [All parts A–Z](../PARTS_INDEX.md) · [System](../systems/engine.md)
 
 ![62mm Throttle Body Milwaukee-8 ](../assets/hpi-throttle.jpg)
 
