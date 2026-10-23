@@ -1,0 +1,1178 @@
+{
+  "checked_at": "2026-10-23T15:54:00+00:00",
+  "manuals": [
+    {
+      "part_ids": [
+        "amazon-B071NRDCDD"
+      ],
+      "label": "FL wrap-around backrest 2014–2018 instructions",
+      "source_url": "https://cdn.shopify.com/s/files/1/0789/7022/4952/files/FL_Wrap-around_Backrest_14_up_web_NEW_MOUNT_INSTR.pdf?v=1727878946",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 2,
+      "status": "saved",
+      "local_path": "manuals/amazon-b071nrdcdd-19770380.pdf",
+      "bytes": 329547,
+      "sha256": "f6bf222de8698bd7a3839b7fc528a406e48273a2cc2fa9ae85e4404dce63ea72",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "amazon-B087KDK9CP",
+        "amazon-B087KCRMDS"
+      ],
+      "label": "FL Touring one-piece mounting instructions",
+      "source_url": "https://cdn.shopify.com/s/files/1/0789/7022/4952/files/FL_08_up_One_Piece_web_NEW_MOUNT_INSTR.pdf?v=1731957313",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 4,
+      "status": "saved",
+      "local_path": "manuals/amazon-b087kdk9cp-cea451a4.pdf",
+      "bytes": 615244,
+      "sha256": "3798da71fd9afe78165454e801f0ae1ec338f236794e4ca5e4f0e7e781f071ca",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "baker-adjuster"
+      ],
+      "label": "BAKER Attitude Adjuster V11-07102023",
+      "source_url": "https://cdn.shopify.com/s/files/1/1034/8027/files/Attitude_Adjuster_Installation_Instructions_V11-07102023.pdf?v=1697830125",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 6,
+      "status": "saved",
+      "local_path": "manuals/baker-adjuster-116ca8ce.pdf",
+      "bytes": 509542,
+      "sha256": "53d2119d7f6822dbecaea774190188d5563f2793f5646017c9c8563d6915c4c1",
+      "resolved_url": "https://cdn.shopify.com/s/files/1/1034/8027/files/Attitude_Adjuster_Installation_Instructions_V11-07102023.pdf?v=1697830125"
+    },
+    {
+      "part_ids": [
+        "baker-comp"
+      ],
+      "label": "BAKER 730-67 / 730-M8 installation instructions",
+      "source_url": "https://cdn.shopify.com/s/files/1/1034/8027/files/Compensating_Sprocket_Instructions_PV5-121105.pdf?v=1618502420",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 6,
+      "status": "saved",
+      "local_path": "manuals/baker-comp-a8c267fc.pdf",
+      "bytes": 5359431,
+      "sha256": "1490c762b8809809d33b5f46d6e6197648a93f4485ae7d8783cdfe90d48e5d95",
+      "resolved_url": "https://cdn.shopify.com/s/files/1/1034/8027/files/Compensating_Sprocket_Instructions_PV5-121105.pdf?v=1618502420"
+    },
+    {
+      "part_ids": [
+        "ciro-mount"
+      ],
+      "label": "Accessory Fairing Mount, G0050116, Rev. B",
+      "source_url": "https://cdn.shopify.com/s/files/1/0069/5064/9956/files/G0050116_Fairing_Mount_REV_B-01.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/ciro-mount-15ebdf48.pdf",
+      "bytes": 603483,
+      "sha256": "682fc1fd80383d1ad27860107909ebe8d13411bb6ffd12d0e14c3248bab396b0",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "dynojet-pv2b"
+      ],
+      "label": "Power Vision Quick Start Guide 98100014.12",
+      "source_url": "https://www.dynojet.com/amfile/file/download/file/67/product/4506/",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 16,
+      "status": "saved",
+      "local_path": "manuals/dynojet-pv2b-df7dd70f.pdf",
+      "bytes": 7863161,
+      "sha256": "934f7e3672fa3a456f99e030cf11e4dbe5e219592a1a3a81b07c9255e51cef97",
+      "resolved_url": "https://www.dynojet.com/amfile/file/download/file/67/product/4506/"
+    },
+    {
+      "part_ids": [
+        "dynojet-pv2b"
+      ],
+      "label": "Power Vision / WinPV full user guide",
+      "source_url": "https://www.dynojet.com/amfile/file/download/file/71/product/4506/",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 153,
+      "status": "saved",
+      "local_path": "manuals/dynojet-pv2b-3fdb819a.pdf",
+      "bytes": 9457405,
+      "sha256": "0ab8accde433ba1807864212e07e1f0ede10a9d59b180b13d56cee53e953e5fc",
+      "resolved_url": "https://www.dynojet.com/amfile/file/download/file/71/product/4506/"
+    },
+    {
+      "part_ids": [
+        "dynojet-pv4"
+      ],
+      "label": "Power Vision 4 user guide",
+      "source_url": "https://www.dynojet.com/amfile/file/download/file/11792/product/182075/",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 100,
+      "status": "saved",
+      "local_path": "manuals/dynojet-pv4-4a5f6ae3.pdf",
+      "bytes": 21883401,
+      "sha256": "f1d78573e430a20884599e25132cfd42be94eccfddd06ee12c5634d307a9f61a",
+      "resolved_url": "https://www.dynojet.com/amfile/file/download/file/11792/product/182075/"
+    },
+    {
+      "part_ids": [
+        "dynojet-pv4"
+      ],
+      "label": "Power Vision 4 installation guide 98200143.04",
+      "source_url": "https://www.dynojet.com/installguide/PV4-15-02",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 15,
+      "status": "saved",
+      "local_path": "manuals/dynojet-pv4-92396165.pdf",
+      "bytes": 1672876,
+      "sha256": "6bcd2289178f8eee31d31947d3ced291106fca225c6bdea551742837d0bc2c82",
+      "resolved_url": "https://www.dynojet.com/pdp/index/getpdf?sku=PV4-15-02/"
+    },
+    {
+      "part_ids": [
+        "koso-gauges"
+      ],
+      "label": "HD-03X installation and operating instructions",
+      "source_url": "https://kosonorthamerica.com/wp-content/uploads/2025/10/wh064ba09a-Harley-4pcs-TFT-kit_KOSOBA064930_CORRECTED_compressed-1.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 8,
+      "status": "saved",
+      "local_path": "manuals/koso-gauges-82e54549.pdf",
+      "bytes": 2791008,
+      "sha256": "cc39065a70ddc13c80efedf036c472aca76996d0d91e462fa0df507c7e4d95cc",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "kraus-caliper-bolts"
+      ],
+      "label": "Brembo M4 rotor spacer and bolt recommendations",
+      "source_url": "https://krausmotorco.com/content/pdfs/BremboM4_Spacer_Bolt_Recommendations_.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-caliper-bolts-962f4c37.pdf",
+      "bytes": 212788,
+      "sha256": "249e3863fd7e04d43363ad093ba119797a96a764fea7e5b7f1eba0ce18828333",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/BremboM4_Spacer_Bolt_Recommendations_.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-caliper-bolts"
+      ],
+      "label": "Radial caliper mounting hardware sizing chart",
+      "source_url": "https://krausmotorco.com/content/pdfs/radial-caliper-mounting-hardware-sizing-chart-V2.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-caliper-bolts-a68c7c38.pdf",
+      "bytes": 217534,
+      "sha256": "28a761a5dc1f783aeb1497ea83a1779a4692d5313ae43ab70facf8fb6d7b9dca",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/radial-caliper-mounting-hardware-sizing-chart-V2.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-kr8"
+      ],
+      "label": "KR8 installation guide, v5 (current product-page download)",
+      "source_url": "https://krausmotorco.com/content/pdfs/KR8_Inv_Frnt_End_Install_Guide-v5.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 18,
+      "status": "saved",
+      "local_path": "manuals/kraus-kr8-42d081c9.pdf",
+      "bytes": 14658989,
+      "sha256": "05439dbfa7fdf0ac3c1ff56ce49cc92c086aaf562df4938cb04486921733c924",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/KR8_Inv_Frnt_End_Install_Guide-v5.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-line"
+      ],
+      "label": "Brake line routing diagram",
+      "source_url": "https://krausmotorco.com/content/pdfs/Brake-Line-Diagram.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-line-66bf7810.pdf",
+      "bytes": 3260445,
+      "sha256": "5721b001389db6c8d043c7ab66103914f6318261cca7bd48ab390687491fdc41",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/Brake-Line-Diagram.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-open"
+      ],
+      "label": "Batwing nacelle cut template",
+      "source_url": "https://krausmotorco.com/content/pdfs/Batwing-nacelle-cut-template.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-open-443e00a7.pdf",
+      "bytes": 2602570,
+      "sha256": "d8e7552489eff9a722381afffbe6579b21c522d06641834a233bdee96163153d",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/Batwing-nacelle-cut-template.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-open"
+      ],
+      "label": "Adjustable ISO Bar installation",
+      "source_url": "https://krausmotorco.com/content/pdfs/Kraus%20ISO%20Bar%20Instructions.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 3,
+      "status": "saved",
+      "local_path": "manuals/kraus-open-16ba7a8d.pdf",
+      "bytes": 12441998,
+      "sha256": "309e66344d23059cfe24f5ed4268b4998a46191da88276ac2da71ec757e6f0eb",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/Kraus%20ISO%20Bar%20Instructions.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-open"
+      ],
+      "label": "T-Rex assembly schematic",
+      "source_url": "https://krausmotorco.com/content/pdfs/ST-PB-01%20Schematic.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-open-f8745341.pdf",
+      "bytes": 794951,
+      "sha256": "11eb91a69856a4c07b1726f03740729ef40941e61196c3531b3fd736f25a791d",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/ST-PB-01%20Schematic.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-open"
+      ],
+      "label": "Workman riser installation",
+      "source_url": "https://krausmotorco.com/content/pdfs/kraus-workman-riser-install.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 1,
+      "status": "saved",
+      "local_path": "manuals/kraus-open-e1adf933.pdf",
+      "bytes": 200405,
+      "sha256": "4f0a35760cbd93641bccd02c6c4b81fe10696a9a68ea47ac69498b919ba1fb19",
+      "resolved_url": "https://krausmotorco.com/content/pdfs/kraus-workman-riser-install.pdf"
+    },
+    {
+      "part_ids": [
+        "kraus-pro4"
+      ],
+      "label": "Pro-4 installation and illustrated parts list",
+      "source_url": "https://krausmotorco.com/content/pdfs/kraus-pro-4-docking-hardware-install.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 4,
+      "status": "saved",
+      "local_path": "manuals/kraus-pro4-e0f65883.pdf",
+      "bytes": 6314369,
+      "sha256": "73266203c6f6b9adf190aa2a9c18fcb9a46d27e8d98ac0f542f0fdd63d97180d",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "og-brakes"
+      ],
+      "label": "OG 13 inch Complete Radial Big Brake Kit Installation 2.0",
+      "source_url": "https://cdn.shopify.com/s/files/1/1799/2027/files/OG_13_Complete_Radial_Big_Brake_Kit_Install_Instructions-2.0.pdf?v=1779361768",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 5,
+      "status": "saved",
+      "local_path": "manuals/og-brakes-237f2e58.pdf",
+      "bytes": 1038334,
+      "sha256": "8310f047a928fd91233298365392ab34d43436b4497f00032ed32b4f60376b98",
+      "resolved_url": "https://cdn.shopify.com/s/files/1/1799/2027/files/OG_13_Complete_Radial_Big_Brake_Kit_Install_Instructions-2.0.pdf?v=1779361768"
+    },
+    {
+      "part_ids": [
+        "ohlins-hd778"
+      ],
+      "label": "HD 778 mounting instructions",
+      "source_url": "https://www.ohlins.eu/download/db/Ohlins_DTC_mounting-instruction-oehlins-motorcycle-hd--00003896.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 8,
+      "status": "saved",
+      "local_path": "manuals/ohlins-hd778-6b3ba382.pdf",
+      "bytes": 1478330,
+      "sha256": "c82648af9d1d31b99d7edc40f9355cabfe5d5de798b26afd1fd6afb6b8b9c932",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "ohlins-hd778"
+      ],
+      "label": "Road & Track owner manual",
+      "source_url": "https://www.ohlins.eu/download/db/Ohlins_DTC_owners-manual-oehlins-motorcycle-road--00001235.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 16,
+      "status": "saved",
+      "local_path": "manuals/ohlins-hd778-a299fe15.pdf",
+      "bytes": 2421837,
+      "sha256": "c47f76d9f934853e222537d31aa69e1e29cf358b253c0704a2a8583fabcc8a8f",
+      "resolved_url": "https://www.ohlins.eu/download/db/Ohlins_DTC_owners-manual-oehlins-motorcycle-road--00001235.pdf"
+    },
+    {
+      "part_ids": [
+        "oilbud",
+        "kp-filter"
+      ],
+      "label": "M8 oil-cooled installation guide",
+      "source_url": "https://www.harleyoilcoolers.com/s/Harley-Davidson-Touring-Bagger-M8-Oil-Cooled-2017-2021-Installation-Guide.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 2,
+      "status": "saved",
+      "local_path": "manuals/oilbud-03b1d6aa.pdf",
+      "bytes": 786825,
+      "sha256": "8889ef8e7242613afaca4c4bb4150d151a284d09294686cb0431c6bfda111321",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "rekluse-auto-clutch"
+      ],
+      "label": "RadiusCX dynamometer procedure",
+      "source_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-DynoSheet.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 14,
+      "status": "saved",
+      "local_path": "manuals/rekluse-auto-clutch-2f69571a.pdf",
+      "bytes": 845598,
+      "sha256": "34737baedbc409ddb8ef372a97485571625a3eb68496fe1a52c139afd7a41ff7",
+      "resolved_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-DynoSheet.pdf"
+    },
+    {
+      "part_ids": [
+        "rekluse-auto-clutch"
+      ],
+      "label": "RadiusCX M8 hydraulic install guide",
+      "source_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-InstallGuide.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 31,
+      "status": "saved",
+      "local_path": "manuals/rekluse-auto-clutch-47de7b43.pdf",
+      "bytes": 2729429,
+      "sha256": "2646f951f1875e0be17f7af3162a3c59740d78a951e125056af1558bf1abef67",
+      "resolved_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-InstallGuide.pdf"
+    },
+    {
+      "part_ids": [
+        "rekluse-auto-clutch"
+      ],
+      "label": "RadiusCX rider guide",
+      "source_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-RidersGuide.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 8,
+      "status": "saved",
+      "local_path": "manuals/rekluse-auto-clutch-3ddcda98.pdf",
+      "bytes": 420160,
+      "sha256": "e78164378ac1a7ec1b76495d1b3a00ce943212e9ed5d8480de30d8ab3e1064ee",
+      "resolved_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-7915005-RidersGuide.pdf"
+    },
+    {
+      "part_ids": [
+        "rekluse-slave"
+      ],
+      "label": "M8 slave installation manual",
+      "source_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-2415050.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 11,
+      "status": "saved",
+      "local_path": "manuals/rekluse-slave-6997e396.pdf",
+      "bytes": 1584443,
+      "sha256": "33f39c943b31b18b37ec998c8f63b9e1c593521e8e6eafd371a0de3200edde15",
+      "resolved_url": "https://www.rekluse.com/wp-content/uploads/2025/08/RMS-2415050.pdf"
+    },
+    {
+      "part_ids": [
+        "soundstream-v2"
+      ],
+      "label": "V2 owner manual, installation and wiring",
+      "source_url": "https://motorcycleaudio.com/cdn/shop/files/V2_Owner_Manual.pdf",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 80,
+      "status": "saved",
+      "local_path": "manuals/soundstream-v2-dc1891a9.pdf",
+      "bytes": 5753849,
+      "sha256": "2a06842c101b2fb89b101042be09adfcfe351a45fb081b7daf51d04bb0a2669a",
+      "resolved_url": null
+    },
+    {
+      "part_ids": [
+        "ss-129"
+      ],
+      "label": "Billet cam support plate instructions, 510-0582",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/510-0582-cam-support-plate-for-m8-1-.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-129"
+      ],
+      "label": "S&S 4.320-inch bore cylinder and piston kits, 510-0844 (2023 revision)",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/510-0844-4-320-bore-cylinder-and-piston-kits-m8-models-.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-129"
+      ],
+      "label": "S&S 4.320-inch bore cylinder and piston kits, 510-0844A (2026 revision)",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/510-0844A%204-320%E2%80%9D%20Bore%20Cylinder%20and%20Piston%20Kits%20M8%20Models%20.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-breathers"
+      ],
+      "label": "Same S&S instruction hosted by Cycle Gear",
+      "source_url": "https://www.cyclegear.com/assets/0006/9333/500-1831__Instructions_for_M8_Breather_Kit_900-1186.pdf",
+      "source_kind": "Public manufacturer or seller PDF",
+      "pages": 2,
+      "status": "saved",
+      "local_path": "manuals/ss-breathers-01b88bc5.pdf",
+      "bytes": 364686,
+      "sha256": "27f3c22daab7058f5a841dfac95aca8928ad5dbd3c65ef0c9fb604df25363469",
+      "resolved_url": "https://www.cyclegear.com/assets/0006/9333/500-1831__Instructions_for_M8_Breather_Kit_900-1186.pdf"
+    },
+    {
+      "part_ids": [
+        "ss-breathers"
+      ],
+      "label": "S&S M8 breather kit 900-1186, instruction 500-1831",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/500-1831-instructions-for-m8-breather-kit-900-1186.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-guardian"
+      ],
+      "label": "S&S M8 rocker-arm stud kit, 510-0683",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/510-0683-m8-rocker-arm-stud-kit.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-guardian"
+      ],
+      "label": "S&S M8 rocker assembly, 510-0737A",
+      "source_url": "https://www.sscycle.com/docs/default-source/instruction-sheets/510-0737a-m8-rocker-assembly.pdf?sfvrsn=2",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "ss-piston-jets"
+      ],
+      "label": "S&S 310-1203 piston cooling jet instructions, 510-0952",
+      "source_url": "https://www.sscycle.com/content/document_center/Instruction_Sheets/510-0952-for-310-1203-m-series-piston-cooling-jet-_instruction-sheet.pdf",
+      "status": "failed",
+      "reason": "HTTP 503"
+    },
+    {
+      "part_ids": [
+        "kspeaker-k2bl"
+      ],
+      "label": "K-SPEAKER Audio System K2 User Manual",
+      "source_url": "https://cdn.shopify.com/s/files/1/0517/4827/4331/files/K2_English_instruction_manual.pdf?v=1681375449",
+      "source_kind": "Previously downloaded matching manufacturer PDF",
+      "pages": 7,
+      "status": "saved",
+      "local_path": "manuals/kspeaker-k2bl-f7bf1845.pdf",
+      "bytes": 1628364,
+      "sha256": "639b27414a115febb8a735b62b3c4bafe42e7b54cc4b1d7126a708cb60299e99",
+      "resolved_url": null
+    }
+  ],
+  "linked_references": [
+    {
+      "part_id": "ss-129",
+      "label": "550C cam instructions: 510-0467-chain-drive-cams-m8.pdf",
+      "source_url": "https://www.sscycle.com/products/550c-chain-drive-camshaft-kit-for-2017-up-m8-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-129",
+      "label": "Oil pump instructions: 510-0597-oil-pumps-for-m8.pdf",
+      "source_url": "https://www.sscycle.com/products/oil-pump-for-2017-up-m8-oil-cooled-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-129",
+      "label": "Adjustable pushrods: 106-6046-adjustable-pushrods-and-hl2t.pdf",
+      "source_url": "https://www.sscycle.com/products/quickee-pushrods-with-gloss-black-covers-for-2017-up-m8-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-129",
+      "label": "Valve spring instructions: 510-0559-valve-springs-m8.pdf",
+      "source_url": "https://www.sscycle.com/products/heavy-duty-valve-spring-kit-for-2017-up-m8-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-129",
+      "label": "Tappet cuff instructions: 510-0575-tappet-cuffs-for-m8.pdf",
+      "source_url": "https://www.sscycle.com/products/tappet-cuffs-for-2017-up-m8-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "se-heads",
+      "label": "Harley-Davidson J06401: M8 Screamin Eagle Pro CNC Ported Cylinder Heads (2021-12-13)",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/1874975677612623235?locale=en_GB",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "se-heads",
+      "label": "J06401 printable instructions",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1874975677612623235/293420/J06401_1018823_en_US.xml",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-throttle",
+      "label": "HPI/Fuel Moto supplied installation support",
+      "source_url": "https://www.fuelmotousa.com/i-23898815-hpi-62mm-throttle-body-milwaukee-8-harley-davidson.html",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "fm-injectors",
+      "label": "Fuel Moto 6.3 g/sec injector product and support reference",
+      "source_url": "https://www.fuelmotousa.com/i-23898817-fuel-moto-6-3-fuel-injectors-milwaukee-8-harley-davidson.html",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-exhaust",
+      "label": "HPi M8 Bagger Full Length Exhaust Install — section 07",
+      "source_url": "https://www.horsepowerinc.net/tech",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-guardian",
+      "label": "S&S M8 head bolts: 510-0662-m8-headbolts.pdf",
+      "source_url": "https://www.sscycle.com/products/head-bolt-kit-for-2017-up-m8-models/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "feuling-air",
+      "label": "Feuling M-Eight air cleaner installation instructions, includes 5434",
+      "source_url": "https://www.feulingparts.com/tech/installation/instructions/download/5434",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ss-studs",
+      "label": "S&S cylinder stud instructions: 510-0975-instruction-shee-for-cylinder-stud-310-1172.pdf",
+      "source_url": "https://www.sscycle.com/products/cylinder-stud-kit-for-m8-models-8-pack/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "kp-filter",
+      "label": "K&P cleaning and assembly",
+      "source_url": "https://kandpengineering.com/cleaning/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "baker-rebuild",
+      "label": "Manufacturer M8 Touring kit contents",
+      "source_url": "https://bakerdrivetrain.com/products/primary-rebuild-kit-2005-2010-bdm?variant=29831599784014",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "baker-rebuild",
+      "label": "Harley-Davidson Service Information Portal",
+      "source_url": "https://serviceinfo.harley-davidson.com/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "pm-cam",
+      "label": "Performance Machine installation instruction index",
+      "source_url": "https://www.performancemachine.com/installation-instructions",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "kraus-kr8",
+      "label": "KR8 online installation guide",
+      "source_url": "https://krausmotorco.com/kr8-inverted-front-end-installation-guide/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "kraus-bearing",
+      "label": "KR8 steering stem / neck bearing installation context",
+      "source_url": "https://krausmotorco.com/kr8-inverted-front-end-installation-guide/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "kraus-rotor-bolts",
+      "label": "Manufacturer installation torque / fitment notes on product page",
+      "source_url": "https://krausmotorco.com/titanium-brake-rotor-hardware-kit/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dbc-lids",
+      "label": "Manufacturer instructions",
+      "source_url": "https://dirtybirdconcepts.com/products/dbc359-harley-davidson-v2-8-audio-speaker-lids-2024-model",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dbc-lids",
+      "label": "Manufacturer instructions",
+      "source_url": "https://www.youtube.com/watch?v=BOBxkriUJu0",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-358724143949",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-326799411532",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-277923783235",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-277985942005",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-406620834295",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-157878720065",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-298335838407",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-125896553200",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-115829894896",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-358446083676",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-267117498922",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-137537266261",
+      "label": "J06775 Rider Footboard – Touring",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/2173438860103712441",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-137537266261",
+      "label": "94100550 Rider Footboard – Touring",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1930317604344918427/351590/94100550_1903350_en_US.xml",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-267619951024",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-267619950452",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-317976778529",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-206288535714",
+      "label": "Harley J04715 — mid-frame air deflectors",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/1981471649719306699",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-306695402716",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-376922074879",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-307073523553",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-287261624103",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-298505073565",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-236881313353",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-236389709201",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-158012198048",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-287292038831",
+      "label": "Harley J04644 — saddlebag hardware kit 90925-08",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1874960981727547779/280140/J04644_521261_en_US.xml",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-206129211573",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-306511188285",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-158033404860",
+      "label": "Harley J05758 — layback LED tail lamp",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/1874968971159028097?locale=en_US",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-327179664230",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-225993310233",
+      "label": "Harley chopped engine guard instructions",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/1875004550856278401",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-287078041552",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-157328674236",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-157733950828",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-296940955437",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-256835456526",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-227062263896",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-227013219691",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-298286562272",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-236830033407",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "ebay-326807070969",
+      "label": "Harley-Davidson instruction-sheet lookup",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/isheet/lookup",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dynojet-pv2b",
+      "label": "Current Power Vision Harley downloads",
+      "source_url": "https://www.dynojet.com/downloads/power-vision-for-harley-davidson/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "heavy-breather",
+      "label": "J06286 Heavy Breather 29400263 / 29400264 instructions",
+      "source_url": "https://serviceinfo.harley-davidson.com/sip/service/document/1874983031682013569",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "power-duals",
+      "label": "Official instruction finder",
+      "source_url": "https://instructions.vanceandhines.com/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-high-flow-fuel-rail",
+      "label": "HPi official product specification and option selector",
+      "source_url": "https://www.horsepowerinc.net/product-page/high-flow-fuel-rail",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-high-flow-fuel-rail",
+      "label": "HPi technical support and installation library",
+      "source_url": "https://www.horsepowerinc.net/tech",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-external-breather",
+      "label": "HPi external breather written installation instructions",
+      "source_url": "https://www.horsepowerinc.net/product-page/billet-pro-external-breather-kit",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hpi-external-breather",
+      "label": "External Breather System Install — HPi Tech section 03",
+      "source_url": "https://www.horsepowerinc.net/tech",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-aio6-lte",
+      "label": "Official AIO-6 LTE user manual and installation guide",
+      "source_url": "https://www.chigee.com/pages/manual-for-aio6-lte",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "maestro-interface",
+      "label": "Maestro vehicle/radio/module-specific installation guide lookup",
+      "source_url": "https://www.idatalinkmaestro.com/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "maestro-interface",
+      "label": "Soundstream V2 official integration reference",
+      "source_url": "https://motorcycleaudio.com/products/v2-headunit",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hertz-amplifier",
+      "label": "Official Hertz manual library",
+      "source_url": "https://hertz-audio.zendesk.com/hc/en-gb",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hertz-8-speakers",
+      "label": "Hertz loudspeaker owner's manual (official common manual)",
+      "source_url": "https://hertz-audio.zendesk.com/hc/en-gb/article_attachments/26285719306513",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "hertz-65-speakers",
+      "label": "Hertz loudspeaker owner's manual (official common manual)",
+      "source_url": "https://hertz-audio.zendesk.com/hc/en-gb/article_attachments/26285719306513",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dunlop-ae2-front",
+      "label": "Dunlop motorcycle tire care, installation and mounting guidance",
+      "source_url": "https://www.dunlopmotorcycletires.com/about/care/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dunlop-ae2-front",
+      "label": "Dunlop tire care page mirror",
+      "source_url": "https://dmt.exults.com/about/care/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dunlop-ae2-rear",
+      "label": "Dunlop motorcycle tire care, installation and mounting guidance",
+      "source_url": "https://www.dunlopmotorcycletires.com/about/care/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "dunlop-ae2-rear",
+      "label": "Dunlop tire care page mirror",
+      "source_url": "https://dmt.exults.com/about/care/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-xr1",
+      "label": "Official XR-1 installation and user manual",
+      "source_url": "https://www.chigee.com/pages/manual-for-xr1-dashcam",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-mirrors",
+      "label": "Official product installation FAQ",
+      "source_url": "https://www.chigee.com/products/cg-bsd-rearview-mirror",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-sr1",
+      "label": "Official SR-1 user and installation manual",
+      "source_url": "https://www.chigee.com/pages/manual-for-sr1",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-quick-release",
+      "label": "Official CG Quick-Release manual",
+      "source_url": "https://www.chigee.com/pages/manual-for-cg-quick-release",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-tr100",
+      "label": "Official TR100 Chinese/English manual",
+      "source_url": "https://drive.google.com/file/d/10R5Cp9_uu9BwoziLMwB-lArByEeikX-e/view?usp=sharing",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-cgrc",
+      "label": "Official MFP0089 CGRC Pro manual",
+      "source_url": "https://drive.google.com/file/d/1GJbWUIm9fF45kRBibqAfbbasS2zgK86k/view?usp=sharing",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-tpms",
+      "label": "Official MFP0019 external TPMS manual",
+      "source_url": "https://drive.google.com/file/d/13hdhzUbGvLlWCSZ_p-bdLM0EDAFuy8dX/view?usp=sharing",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-cable-lightning",
+      "label": "TR100 manual",
+      "source_url": "https://drive.google.com/file/d/10R5Cp9_uu9BwoziLMwB-lArByEeikX-e/view?usp=sharing",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "chigee-cable-usbc",
+      "label": "TR100 manual",
+      "source_url": "https://drive.google.com/file/d/10R5Cp9_uu9BwoziLMwB-lArByEeikX-e/view?usp=sharing",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "juiced-squeeze",
+      "label": "Official Juiced Squeeze wiring guide",
+      "source_url": "https://hondogarage.com/blogs/install-guides/juiced-squeeze-wiring-guide",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "buzzkill2",
+      "label": "Official BuzzKill2.0 installation guide",
+      "source_url": "https://hondogarage.com/blogs/install-guides/buzzkill2-0-install-guide",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "big-squeeze",
+      "label": "Official Hondo installation guide index",
+      "source_url": "https://hondogarage.com/blogs/install-guides",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "bar-clamps",
+      "label": "Official bar clamp installation guide",
+      "source_url": "https://hondogarage.com/blogs/install-guides/bar-clamp-system-how-to-use",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "spinster",
+      "label": "Official Spinster product guidance",
+      "source_url": "https://hondogarage.com/products/the-spinster",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "cicada-divider",
+      "label": "Official product installation limitations",
+      "source_url": "https://cicadaaudio.com/product/chd8hd/",
+      "status": "linked",
+      "reason": "Web reference or non-direct PDF; retained as a link"
+    },
+    {
+      "part_id": "vault-na20",
+      "label": "Manufacturer specifications and charging guidance",
+      "source_url": "https://www.vaultpower12v.com/products/p/20ah-sodium-battery",
+      "status": "linked",
+      "reason": "Web reference retained as source link"
+    },
+    {
+      "part_id": "vault-na20",
+      "label": "SMS Vault Power battery/electrical integration guide",
+      "source_url": "https://smscaraudio.com/pages/vault-power-battery-guide",
+      "status": "linked",
+      "reason": "Web reference retained as source link"
+    },
+    {
+      "part_id": "kspeaker-k2bl",
+      "label": "KSPEAKER official user manuals index",
+      "source_url": "https://www.kspeaker.com/pages/user-manuals",
+      "status": "linked",
+      "reason": "Web reference retained as source link"
+    }
+  ]
+}
